@@ -1,0 +1,23 @@
+*{
+    font-family: poppins;
+}
+header{
+    padding: 18px;
+    box-sizing: border-box;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 10px;
+}
+.tt{
+    text-decoration: none;
+    color: white;
+}
+.tbox {
+    background-color: aqua;
+}
